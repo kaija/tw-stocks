@@ -1,0 +1,6 @@
+[submodule "tw-stock-raw"]
+	path = tw-stock-raw
+	url = https://github.com/kaija/tw-stock-raw.git
+[submodule "tw-emerging-raw"]
+	path = tw-emerging-raw
+	url = https://github.com/kaija/tw-emerging-raw.git
